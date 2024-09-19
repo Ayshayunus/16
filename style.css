@@ -793,7 +793,7 @@ textarea{
 footer {
     background-color: #030613;
     color: white;
-    padding: 40px 0 0 0;
+    padding-top: 40px;
     font-family: 'lucida sans unicode';
     height: 350px;
     font-weight: 100;
