@@ -539,7 +539,7 @@ fieldset{
     padding: 20px 30px;
     border: none;
 }
-.reserve-title h3{
+.reserve-title a{
     color: var(--primary);
     font-family: sherwood;
     font-weight: 100;
