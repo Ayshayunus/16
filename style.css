@@ -826,7 +826,8 @@ footer {
 .footer-section ul {
     list-style: none;
     padding: 0;
-}.footer-section ul li span{
+}
+.footer-section ul li span{
     font-weight: 400;
     margin-right: 5px;
     font-family: 'sherwood';
